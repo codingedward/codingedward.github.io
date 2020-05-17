@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://njoroge.dev/portfolio/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/categories/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/categories/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/portfolio/syntax-highlight/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/katex/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/posts/test-katex/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/categories/math/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/posts/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/series/</loc>
+  </url>
+  
+</urlset>
