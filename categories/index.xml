@@ -14,7 +14,7 @@
     <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
     <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://njoroge.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,27 +23,9 @@
 
       
       <item>
-        <title>hugo</title>
-        <link>https://njoroge.dev/categories/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
-        
-        <guid>https://njoroge.dev/categories/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>Edward Njoroge</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>math</title>
         <link>https://njoroge.dev/categories/math/</link>
-        <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sat, 14 Mar 2020 12:00:06 +0900</pubDate>
         <author>codingedward@gmail.com (Edward Njoroge)</author>
         
         <guid>https://njoroge.dev/categories/math/</guid>

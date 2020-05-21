@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on njoroge.dev</title>
-    <link>https://njoroge.dev/posts/</link>
-    <description>Recent content in Posts on njoroge.dev</description>
+    <title>math on njoroge.dev</title>
+    <link>https://njoroge.dev/tags/math/</link>
+    <description>Recent content in math on njoroge.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 14 Mar 2020 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://njoroge.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://njoroge.dev/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     

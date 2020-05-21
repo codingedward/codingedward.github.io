@@ -14,7 +14,7 @@
     <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
     <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://njoroge.dev/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,54 +26,36 @@
 
       
       <item>
-        <title>Syntax highlighting</title>
-        <link>https://njoroge.dev/portfolio/syntax-highlight/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <title>About</title>
+        <link>https://njoroge.dev/about/</link>
+        <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
         <author>codingedward@gmail.com (Edward Njoroge)</author>
-        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>https://njoroge.dev/portfolio/syntax-highlight/</guid>
-        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line Makefile 1 2 3 4 5 CC=gcc CFLAGS=-I. hellomake: hellomake.o hellofunc.o</description>
+        <atom:modified>Fri, 22 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://njoroge.dev/about/</guid>
+        <description>My likeness :)  Hello, my name is Edward and currently I&#39;m a Fullstack Software Engineer working for a lovely company called Mayflower Weddings Inc. based in Boston, MA.    I know only one thing, that I do not know. – Socrates.
+ What do I live for? I am an aspiring erudite, relentlessly pursuing after knowledge, seeking, searching, questioning and always willing to learn both new and old ideas alike.</description>
         
         <dc:creator>Edward Njoroge</dc:creator>
-        <media:content url="https://njoroge.devimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
-          
-            
-              <category>hugo</category>
-            
-          
         
         
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-          
         
       </item>
       
       <item>
-        <title>Katex support</title>
-        <link>https://njoroge.dev/posts/test-katex/</link>
-        <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
+        <title>Vieta&#39;s formulas in elementary algebra</title>
+        <link>https://njoroge.dev/posts/vietas-formulas-in-elementary-algebra/</link>
+        <pubDate>Sat, 14 Mar 2020 12:00:06 +0900</pubDate>
         <author>codingedward@gmail.com (Edward Njoroge)</author>
-        <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>https://njoroge.dev/posts/test-katex/</guid>
-        <description>The following
-$$ \int_{a}^{b} x^2 dx $$
-Is an integral
-$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
-Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
-See the online reference of supported TeX functions.
-Note: For inline math to render correctly, your content file extension must be .mmark. See the official mmark site.
-Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
+        <atom:modified>Sat, 14 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://njoroge.dev/posts/vietas-formulas-in-elementary-algebra/</guid>
+        <description>Introduction By the fundamental theory of algebra, a general polynomial of the form,
+$$ \tag{1} f(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \cdots + a_{1}x + a_{0} = 0 $$
+has at least $ n $ complex roots (not necessarily unique). Therefore, given a root $ \alpha $ of the polynomial, we can rewrite $ (1) $ as,
+$$ f(x) = (x - \alpha) f^&amp;rsquo;(x) = 0 $$
+where $ f^&amp;rsquo;(x) $ is a polynomial of degree $(n - 1)$.</description>
         
         <dc:creator>Edward Njoroge</dc:creator>
         <media:content url="https://njoroge.devimages/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -82,7 +64,11 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         
           
             
-              <category>katex</category>
+              <category>math</category>
+            
+          
+            
+              <category>algebra</category>
             
           
         
@@ -97,26 +83,6 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
           
             
           
-        
-      </item>
-      
-      <item>
-        <title>About</title>
-        <link>https://njoroge.dev/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
-        <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
-        <guid>https://njoroge.dev/about/</guid>
-        <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-        
-        <dc:creator>Edward Njoroge</dc:creator>
-        
-        
-        
-        
-        
         
       </item>
       
