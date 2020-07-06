@@ -26,6 +26,45 @@
 
       
       <item>
+        <title>Let&#39;s derive trigonometric identities!</title>
+        <link>https://njoroge.dev/posts/lets-derive-trigonometric-identities/</link>
+        <pubDate>Fri, 12 Jun 2020 12:00:06 +0900</pubDate>
+        <author>codingedward@gmail.com (Edward Njoroge)</author>
+        <atom:modified>Fri, 12 Jun 2020 12:00:06 +0900</atom:modified>
+        <guid>https://njoroge.dev/posts/lets-derive-trigonometric-identities/</guid>
+        <description>Hello, in this post we&amp;rsquo;ll are going to derive the trigonometric identities. While usually you would refer from a table with these identities when you deem it necessary to apply one, it comes in handy to have most of these memorised.
+Introduction The trigonometric functions are defined for on a right angled triangle $ ABC $ for one of the angles of the triangle, in this case $\alpha$. We start by defining two sides relative to the angle know as the opposite side ($Opp$) and the adjacent side ($Adj$) which is the side that connects the angle to the $\frac{\pi}{2}$ angle.</description>
+        
+        <dc:creator>Edward Njoroge</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+            
+              <category>trigonometry</category>
+            
+          
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>About</title>
         <link>https://njoroge.dev/about/</link>
         <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>

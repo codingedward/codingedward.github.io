@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://njoroge.dev/categories/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/posts/lets-derive-trigonometric-identities/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/math/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/categories/math/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/posts/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njoroge.dev/tags/trigonometry/</loc>
+    <lastmod>2020-06-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://njoroge.dev/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
@@ -14,31 +49,6 @@
   
   <url>
     <loc>https://njoroge.dev/tags/algebra/</loc>
-    <lastmod>2020-03-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njoroge.dev/categories/</loc>
-    <lastmod>2020-03-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njoroge.dev/tags/math/</loc>
-    <lastmod>2020-03-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njoroge.dev/categories/math/</loc>
-    <lastmod>2020-03-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njoroge.dev/posts/</loc>
-    <lastmod>2020-03-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njoroge.dev/tags/</loc>
     <lastmod>2020-03-14T12:00:06+09:00</lastmod>
   </url>
   
