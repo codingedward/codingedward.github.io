@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>trigonometry on njoroge.dev</title>
-    <link>https://njoroge.dev/tags/trigonometry/</link>
-    <description>Recent content in trigonometry on njoroge.dev</description>
+    <title>algorithms on njoroge.dev</title>
+    <link>https://njoroge.dev/tags/algorithms/</link>
+    <description>Recent content in algorithms on njoroge.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jul 2020 18:39:00 +0000</lastBuildDate>
     
-        <atom:link href="https://njoroge.dev/tags/trigonometry/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://njoroge.dev/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -48,45 +48,6 @@ Having prepared everything, you are on the final step of doing calculations to g
           
             
               <category>algorithms</category>
-            
-          
-        
-        
-          
-            
-              <category>math</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Let&#39;s derive trigonometric identities!</title>
-        <link>https://njoroge.dev/posts/lets-derive-trigonometric-identities/</link>
-        <pubDate>Fri, 12 Jun 2020 12:00:06 +0900</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
-        <atom:modified>Fri, 12 Jun 2020 12:00:06 +0900</atom:modified>
-        <guid>https://njoroge.dev/posts/lets-derive-trigonometric-identities/</guid>
-        <description>Hello, in this post we are going to derive the trigonometric identities. While usually you would refer from a table with these identities when you deem it necessary to apply one, it comes in handy to have most of them memorised.
-Introduction The trigonometric functions are defined on a right angled triangle $ ABC $ for one of the angles of the triangle, in this case $\alpha$. We start by defining two sides relative to the angle known as the opposite side ($Opp$) and the adjacent side ($Adj$) which is the side that connects the angle to the $\frac{\pi}{2}$ angle.</description>
-        
-        <dc:creator>Edward Njoroge</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>math</category>
-            
-          
-            
-              <category>trigonometry</category>
             
           
         

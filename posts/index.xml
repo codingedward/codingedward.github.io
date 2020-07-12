@@ -14,13 +14,56 @@
     <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
     <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 12 Jun 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 18:39:00 +0000</lastBuildDate>
     
         <atom:link href="https://njoroge.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Prosthaphaeresis - an ancient algorithm for approximating products</title>
+        <link>https://njoroge.dev/posts/prosthaphaeresis/</link>
+        <pubDate>Sat, 11 Jul 2020 18:39:00 +0000</pubDate>
+        <author>codingedward@gmail.com (Edward Njoroge)</author>
+        <atom:modified>Sat, 11 Jul 2020 18:39:00 +0000</atom:modified>
+        <guid>https://njoroge.dev/posts/prosthaphaeresis/</guid>
+        <description>The year is 1601. You and your buddies have invested heavily and bought a new sleek ship which you all agreed deserved the name Helena. You are all pumped to sail the world, to meet new people and to see new places.
+Having prepared everything, you are on the final step of doing calculations to guarantee the safe navigation of Helena and you come down to the expression $ 197598759 \times 84738549 $ that needs to be evaluated.</description>
+        
+        <dc:creator>Edward Njoroge</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+            
+              <category>trigonometry</category>
+            
+          
+            
+              <category>algorithms</category>
+            
+          
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Let&#39;s derive trigonometric identities!</title>
