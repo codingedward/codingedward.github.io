@@ -11,8 +11,6 @@
     <description>Recent content in algebra on njoroge.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
-    <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 14 Mar 2020 12:00:06 +0900</lastBuildDate>
     
@@ -26,7 +24,7 @@
         <title>Vieta&#39;s formulas in elementary algebra</title>
         <link>https://njoroge.dev/posts/vietas-formulas-in-elementary-algebra/</link>
         <pubDate>Sat, 14 Mar 2020 12:00:06 +0900</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
+        
         <atom:modified>Sat, 14 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://njoroge.dev/posts/vietas-formulas-in-elementary-algebra/</guid>
         <description>Introduction By the fundamental theory of algebra, a general polynomial of the form,
@@ -36,7 +34,7 @@ $$ f(x) = (x - \alpha) f^&amp;rsquo;(x) = 0 $$
 where $ f^&amp;rsquo;(x) $ is a polynomial of degree $(n - 1)$.</description>
         
         <dc:creator>Edward Njoroge</dc:creator>
-        <media:content url="https://njoroge.devimages/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
         
         
         

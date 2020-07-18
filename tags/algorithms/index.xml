@@ -11,8 +11,6 @@
     <description>Recent content in algorithms on njoroge.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
-    <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jul 2020 18:39:00 +0000</lastBuildDate>
     
@@ -26,7 +24,7 @@
         <title>Prosthaphaeresis - an ancient algorithm for approximating products</title>
         <link>https://njoroge.dev/posts/prosthaphaeresis/</link>
         <pubDate>Sat, 11 Jul 2020 18:39:00 +0000</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
+        
         <atom:modified>Sat, 11 Jul 2020 18:39:00 +0000</atom:modified>
         <guid>https://njoroge.dev/posts/prosthaphaeresis/</guid>
         <description>The year is 1601. You and your buddies have invested heavily and bought a new sleek ship which you all agreed deserved the name Helena. You are all pumped to sail the world, to meet new people and to see new places.

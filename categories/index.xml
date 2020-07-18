@@ -11,8 +11,6 @@
     <description>Recent content in Categories on njoroge.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
-    <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jul 2020 18:39:00 +0000</lastBuildDate>
     
@@ -26,7 +24,7 @@
         <title>math</title>
         <link>https://njoroge.dev/categories/math/</link>
         <pubDate>Sat, 11 Jul 2020 18:39:00 +0000</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
+        
         
         <guid>https://njoroge.dev/categories/math/</guid>
         <description></description>

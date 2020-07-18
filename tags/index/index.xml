@@ -11,8 +11,6 @@
     <description>Recent content in index on njoroge.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>codingedward@gmail.com (Edward Njoroge)</managingEditor>
-    <webMaster>codingedward@gmail.com (Edward Njoroge)</webMaster>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
     
         <atom:link href="https://njoroge.dev/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -25,7 +23,7 @@
         <title>Posts</title>
         <link>https://njoroge.dev/posts/</link>
         <pubDate>Sat, 11 Jul 2020 18:39:00 +0000</pubDate>
-        <author>codingedward@gmail.com (Edward Njoroge)</author>
+        
         
         <guid>https://njoroge.dev/posts/</guid>
         <description></description>
