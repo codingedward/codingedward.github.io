@@ -12,51 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Edward Njoroge / &amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 18:39:00 +0000</lastBuildDate>
     
         <atom:link href="https://njoroge.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
-      
-      <item>
-        <title>Could science really determine human values?</title>
-        <link>https://njoroge.dev/posts/could-science-determine-human-values/</link>
-        <pubDate>Sat, 08 Aug 2020 12:00:06 +0900</pubDate>
-        
-        <atom:modified>Sat, 08 Aug 2020 12:00:06 +0900</atom:modified>
-        <guid>https://njoroge.dev/posts/could-science-determine-human-values/</guid>
-        <description>In his book The Moral Landscape, Sam Harris makes the case that science should be at the forefront of determining human values as opposed to religion and culture as has been the case in so far as we have known society to function. While I am not entirely convinced by his argument as I am yet to read or find good counteracting material, I found it difficult to dismiss his case logically.</description>
-        
-        <dc:creator>Edward Njoroge</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>moral theory</category>
-            
-          
-            
-              <category>books</category>
-            
-          
-        
-        
-          
-            
-              <category>philosophy</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
       
       <item>
         <title>Prosthaphaeresis - an ancient algorithm for approximating products</title>
