@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Hugo Zzo theme",
-  "short_name": "Hugo Zzo theme",
+  "name": "Edward Njoroge",
+  "short_name": "Edward Njoroge",
   "version": "1.0.0",
   "default_locale": "en",
-  "description": "Hugo blog theme with rich features",
-  "start_url": "https://themes.gohugo.io/theme/hugo-theme-zzo/",
+  "description": "Edward Njoroge blog post",
+  "start_url": "https://njoroge.dev",
   "icons": [
     {
       "src": "favicon/android-icon-36x36.png",
